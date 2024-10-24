@@ -4,7 +4,7 @@
 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/MaloPolese/sweethome3d-light-combinations-plugin/main.yml?branch=main)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/MaloPolese/sweethome3d-light-combinations-plugin/draft.yml?branch=main&label=draft%20release)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/MaloPolese/sweethome3d-light-combinations-plugin/release.yml?branch=main&label=release)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/MaloPolese/sweethome3d-light-combinations-plugin/release.yml?label=release)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/MaloPolese/sweethome3d-light-combinations-plugin/total)
 
 </div>
