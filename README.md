@@ -7,9 +7,11 @@
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/MaloPolese/sweethome3d-light-combinations-plugin/release.yml?label=release)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/MaloPolese/sweethome3d-light-combinations-plugin/total)
 
+![Logo](./docs/ha_x_sweethome3d.jpg)
+
 </div>
 
-This plugin automatically generates images for all light combinations in a SweetHome3D scene. Users can select which lights to include in the combinations, adjust the power level of each light, and name the lights. The generated names are used to create configurations compatible with the Home Assistant Picture Elements card.
+This plugin automatically generates images for all light combinations in a SweetHome3D scene. Users can select which lights to include in the combinations, adjust the power level of each light, and name the lights. The generated names are used to create configurations compatible with the [Home Assistant](https://www.home-assistant.io/) [Picture Elements card](https://www.home-assistant.io/dashboards/picture-elements/).
 
 ## Features
 - **Light Selection**: Choose which lights to include in the generated combinations.
