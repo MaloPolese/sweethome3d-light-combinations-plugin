@@ -344,7 +344,7 @@ class LightsCombinationController(plugin: Plugin) : Controller<LightsCombination
     private fun generateHomeAssistantConfig(generationConfiguration: GenerationConfiguration): HomeAssistantConfig {
         val config = HomeAssistantConfig(
             type = "picture-elements",
-            image = "/local/planes/ha-generated-0.jpg",
+            image = "/local/plans/ha-generated-0.jpg",
         )
 
         for ((i, generation) in generationConfiguration.generations.withIndex()) {
@@ -354,7 +354,7 @@ class LightsCombinationController(plugin: Plugin) : Controller<LightsCombination
             )
             val subElement = SubElement(
                 filter = "brightness(100%)",
-                image = "/local/planes/$imageName.jpg",
+                image = "/local/plans/$imageName.jpg",
                 style = Style(
                     left = "50%",
                     top = "50%",
