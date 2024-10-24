@@ -73,4 +73,4 @@ Now, you should have a fully functional Picture Elements card displaying all the
  
 ## Credit
 
-This project was inspired by the work of sergiocasero and their project [sweet_home_3d_ha_lightning](https://github.com/sergiocasero/sweet_home_3d_ha_lightning).
+This project was inspired by the work of [@sergiocasero](https://github.com/sergiocasero) and his project [sweet_home_3d_ha_lightning](https://github.com/sergiocasero/sweet_home_3d_ha_lightning).
