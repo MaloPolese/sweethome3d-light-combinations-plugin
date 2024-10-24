@@ -26,6 +26,8 @@ This plugin automatically generates images for all light combinations in a Sweet
 
 ## Installation
 
+Download the latest release (.jar) from the [releases page](https://github.com/MaloPolese/sweethome3d-light-combinations-plugin/releases) and follow the instructions below.
+
 Place the JAR file in the following plugin folder depending on your OS:
 
 - **Windows 11 / 10 / 8 / 7 / Vista**: `C:\Users\user\AppData\Roaming\eTeks\Sweet Home 3D\plugins`
@@ -33,12 +35,7 @@ Place the JAR file in the following plugin folder depending on your OS:
 - **macOS**: `~/Library/Application Support/eTeks/Sweet Home 3D/plugins`
 - **Linux/Unix**: `~/.eteks/sweethome3d/plugins`
 
-### Troubleshooting
-If the plugin does not appear in the installer version of SweetHome3D on Windows, you can run SweetHome3D using the JAR version:
-
-```bash
-java -jar .\SweetHome3D-7.5.jar
-```
+Start SweetHome3D and the plugin should appear in the Tools menu.
 
 ## Usage
 
