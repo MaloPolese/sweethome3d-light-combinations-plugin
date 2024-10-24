@@ -21,8 +21,6 @@ dependencies {
 tasks.withType<Jar> {
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 
-    destinationDirectory = file("C:\\Users\\Malo\\AppData\\Roaming\\eTeks\\Sweet Home 3D\\plugins")
-
     manifest {
         attributes(
             "Main-Class" to "$group.App",
